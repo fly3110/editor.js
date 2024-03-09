@@ -75,5 +75,8 @@
   "collective": {
     "type": "opencollective",
     "url": "https://opencollective.com/editorjs"
+  },
+  "dependencies": {
+    "yarn": "^1.22.21"
   }
 }
